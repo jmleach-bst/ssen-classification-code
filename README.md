@@ -20,16 +20,17 @@ consulting the `.Rmd` files, which combine code and explanations with
 `R` markdown.
 
 We are not authorized to include data from the ADNI study, but details
-for access are available at . We have nevertheless included our code for
-analyses using ADNI data, so that anyone with access could run the
-analyses if they so choose. Note that we use the `ADNIMERGE` package
-version 0.0.1, released on 2020-02-19; subsequent versions/release dates
-may result in a different, but significantly overlapping, data set. The
-folder “Rcode\_analyses\_cheaha” and “scripts\_analyses\_cheaha”
-contains the `R` code and `.sh` scripts, respectively, that were used to
-run the analyses on UAB’s cluster. The PDF file “analysis\_details” is
-directly generated from the `.Rmd` file for those users without access
-to ADNI data.
+for access are available at <http://adni.loni.usc.edu/>. We have
+nevertheless included our code for analyses using ADNI data, so that
+anyone with access could run the analyses if they so choose. Note that
+we use the `ADNIMERGE` package version 0.0.1, released on 2020-02-19;
+subsequent versions/release dates may result in a different, but
+significantly overlapping, data set. The folder
+“Rcode\_analyses\_cheaha” and “scripts\_analyses\_cheaha” contains the
+`R` code and `.sh` scripts, respectively, that were used to run the
+analyses on UAB’s cluster. The PDF file “analysis\_details” is directly
+generated from the `.Rmd` file for those users without access to ADNI
+data.
 
 With respect to simulations (within folder:
 “ssen-classification-simulations”), the folder “Rcode” contains code for
