@@ -5,13 +5,13 @@
 
 This repository contains code for reproducing simulations from the paper
 “The Spike-and-Slab Elastic Net as a Classification Tool in Alzheimer’s
-Disease”, submitted to . There are two primary folders. The folder
-“ADNI-analyses” contains details regarding analysis of ADNI data, while
-the folder “ssen-classification-simulations” contains code and details
-for reproducing the simulation study. All analyses, including
-simulations, were conducted on the cluster at the University of Alabama
-at Birmingham (UAB). We include `.sh` scripts and `R` code for
-reproducing the analyses using Slurm Workload Manager
+Disease.” There are two primary folders. The folder “ADNI-analyses”
+contains details regarding analysis of ADNI data, while the folder
+“ssen-classification-simulations” contains code and details for
+reproducing the simulation study. All analyses, including simulations,
+were conducted on the cluster at the University of Alabama at Birmingham
+(UAB). We include `.sh` scripts and `R` code for reproducing the
+analyses using Slurm Workload Manager
 (<https://slurm.schedmd.com/overview.html>). If you want to re-run
 everything from scratch, you will need to change path names in `R` files
 and the Slurm scripts, and if your institution does not use Slurm, then
